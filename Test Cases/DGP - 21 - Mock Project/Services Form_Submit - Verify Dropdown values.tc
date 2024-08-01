@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Services Form_Submit - Verify Dropdown values</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1bc1c4d2-27f1-422e-98f3-bcb71092dccd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>84f3f03a-8645-4890-90c4-9add53144c76</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5d377fe5-7b02-4f5d-a623-395c85be96a7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>63e46e22-a372-44f8-ba27-3a4542baa28f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>84f3f03a-8645-4890-90c4-9add53144c76</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5d377fe5-7b02-4f5d-a623-395c85be96a7</id>
+      <masked>false</masked>
+      <name>Dropdown</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>63e46e22-a372-44f8-ba27-3a4542baa28f</id>
+      <masked>false</masked>
+      <name>DropdownValues</name>
+   </variable>
+</TestCaseEntity>

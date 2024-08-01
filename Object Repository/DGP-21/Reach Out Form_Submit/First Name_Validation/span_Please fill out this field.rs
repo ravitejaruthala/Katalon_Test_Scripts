@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Please fill out this field</name>
+   <tag></tag>
+   <elementGuidId>a7ccaf86-a1ab-4984-ac25-62bff8a86e14</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wpcf7-f1233-p222-o1']/form/div[2]/div/p[2]/b/font/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.wpcf7-not-valid-tip</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2446933a-300a-4930-80d0-71366065bc9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wpcf7-not-valid-tip</value>
+      <webElementGuid>581a4e63-70b2-4bda-beb1-ad16be292653</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>eb9743ab-29ef-4fec-b380-ad44df36c8ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please fill out this field.</value>
+      <webElementGuid>61aa7d16-0039-4b7c-8147-3ef7d5e780ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wpcf7-f1233-p222-o1&quot;)/form[@class=&quot;wpcf7-form init&quot;]/div[@class=&quot;inline&quot;]/div[@class=&quot;field-space1&quot;]/p[2]/b[1]/font[1]/span[@class=&quot;wpcf7-form-control-wrap&quot;]/span[@class=&quot;wpcf7-not-valid-tip&quot;]</value>
+      <webElementGuid>6d79f661-05af-4faa-8be9-6e76d92f5d76</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wpcf7-f1233-p222-o1']/form/div[2]/div/p[2]/b/font/span/span</value>
+      <webElementGuid>d3e4d273-817d-41e0-a979-a0e9a898de43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::span[1]</value>
+      <webElementGuid>e7661421-0199-4120-941e-7f86072423fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//font/span/span</value>
+      <webElementGuid>0ec074e7-a16e-4057-b220-410875f4a649</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Please fill out this field.' or . = 'Please fill out this field.')]</value>
+      <webElementGuid>86f7b9bd-b190-406a-b1e0-9957e18c1c8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

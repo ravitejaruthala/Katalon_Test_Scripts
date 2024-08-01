@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>July 25</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>e7a3e355-75fe-4bc6-a831-9bc2d332d9ca</testSuiteGuid>
+   <testCaseLink>
+      <guid>981d0f0c-51ef-4c68-83e3-c7b8b16b4b3d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DGP - 21 - Mock Project/Resources_Search</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a2c58bf4-f01c-45ae-93de-8126c24794bd</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DGP - 21 - Mock Project/Resources_Search - Click Enterprise Testing</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>81c9a4cb-8f8c-45a5-a87a-96200a9e956a</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ecb59ef9-d36d-4015-b678-31c36eb04a2b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DGP - 21 - Mock Project/Resources_Search - Page Navigation</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f3aea7d3-acb1-4412-9bfa-cdfb9ef7ec19</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>af7896c6-3fe3-45f0-9c82-da10558f7f3d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DGP - 21 - Mock Project/Training Program_Careers</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>066ccc13-e03c-486b-9ce6-b44231dd3d19</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d4970e1a-e093-4ad8-a3b4-3ece32f2005c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DGP - 21 - Mock Project/Training Program_General Application Form</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c24bc9c7-e50a-4f88-9c3e-130159c65267</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4d5a0c3a-52ff-4673-bc4c-c99cf9b47b6f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DGP - 21 - Mock Project/About Us_Join Our Team</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>4110d2bc-29d4-49d8-955a-2414de484b06</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>cd8df77a-7094-4762-9254-18a40f95a711</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DGP - 21 - Mock Project/About Us_Leadership Team</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>42582806-d253-4258-b142-f30155fb0cea</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ff54de5e-c8e9-4100-a3b9-4cb0efe2116a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DGP - 21 - Mock Project/About Us_Testimonial</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ed599df1-20ca-4faf-8225-2bb0b88eb663</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

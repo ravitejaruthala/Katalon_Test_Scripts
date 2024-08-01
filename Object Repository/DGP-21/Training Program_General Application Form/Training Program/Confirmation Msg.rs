@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Confirmation Msg</name>
+   <tag></tag>
+   <elementGuidId>e022b3e1-5d7f-4700-a33f-a9be2bbc847a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wpcf7-f1199-p221-o1']/form/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.wpcf7-response-output</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f5daccb1-938c-46e9-b360-d9212c258f95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wpcf7-response-output</value>
+      <webElementGuid>611045c4-a8a5-4ba3-93c5-91faa471b4c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>4cf1c80d-5b86-45e1-a566-b87d98f001ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thank you for your message. It has been sent.</value>
+      <webElementGuid>7db698e5-44a8-43ae-8510-53e0bd9033c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wpcf7-f1199-p221-o1&quot;)/form[@class=&quot;wpcf7-form sent&quot;]/div[@class=&quot;wpcf7-response-output&quot;]</value>
+      <webElementGuid>dd64f99d-ec21-48ed-a0c2-c2d081cae2a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wpcf7-f1199-p221-o1']/form/div[3]</value>
+      <webElementGuid>f6155b25-5698-4afe-b201-37957ac57c02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/following::div[2]</value>
+      <webElementGuid>0a2b75d5-b00c-4ffe-a9dc-dfa8394343ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Must be of First Nation, Métis, or Inuit heritage/descent'])[1]/following::div[2]</value>
+      <webElementGuid>a283ef39-9de3-4145-9f0c-248878f2a56c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Meet the PLATO Calgary Class of 2020'])[1]/preceding::div[4]</value>
+      <webElementGuid>ed25c613-4e35-4a2a-aeaa-568d898f3d6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Frequently Asked Questions'])[1]/preceding::div[17]</value>
+      <webElementGuid>84e18bd2-57e6-4623-9204-386fea1dbdb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[3]</value>
+      <webElementGuid>7b8e8638-9ab8-4fcd-9f40-1478e2b59824</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Thank you for your message. It has been sent.' or . = 'Thank you for your message. It has been sent.')]</value>
+      <webElementGuid>17573cd7-baac-4829-b044-d515ccfd78ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

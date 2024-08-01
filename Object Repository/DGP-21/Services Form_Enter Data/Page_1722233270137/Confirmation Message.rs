@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Confirmation Message</name>
+   <tag></tag>
+   <elementGuidId>54b29104-ab0a-4cb7-b8da-74c30693fe44</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wpcf7-f1107-p195-o1']/form/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.wpcf7-response-output</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>88f096e7-fba9-4301-96eb-e1b52a2c81c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wpcf7-response-output</value>
+      <webElementGuid>342f3b9f-0953-4aa3-a6b1-af9924d35f89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>51250ed8-cc93-4b17-98e6-23aa3e37fa0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thank you for your message. It has been sent.</value>
+      <webElementGuid>4ffd333d-79f0-4749-b9d2-2ccff29216e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wpcf7-f1107-p195-o1&quot;)/form[@class=&quot;wpcf7-form sent&quot;]/div[@class=&quot;wpcf7-response-output&quot;]</value>
+      <webElementGuid>98e0ca61-53c0-4a0c-9535-f18ec3f14c12</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wpcf7-f1107-p195-o1']/form/div[3]</value>
+      <webElementGuid>00915306-1746-46b0-92b8-6a91dd29553f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[9]/following::div[2]</value>
+      <webElementGuid>e248af62-a1c6-45c7-86cb-84e3cfea3514</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Work With Us'])[7]/preceding::div[3]</value>
+      <webElementGuid>7ce616ee-24c8-4523-b12d-1d536dc0318d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GENERAL BUSINESS INQUIRIES'])[1]/preceding::div[7]</value>
+      <webElementGuid>90daf624-10ad-434e-9bee-783ca425b92a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[3]</value>
+      <webElementGuid>b9448bf9-8dd3-4a2c-9316-3f03ff6f379f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Thank you for your message. It has been sent.' or . = 'Thank you for your message. It has been sent.')]</value>
+      <webElementGuid>492cfbc9-4102-4710-b64b-d005bbc61ab2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

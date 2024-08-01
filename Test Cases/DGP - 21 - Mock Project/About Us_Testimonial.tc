@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>About Us_Testimonial</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cad54a3a-9de7-47de-808f-c03c1d6e2fd6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ed599df1-20ca-4faf-8225-2bb0b88eb663</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'URL'</defaultValue>
+      <description></description>
+      <id>ed599df1-20ca-4faf-8225-2bb0b88eb663</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
